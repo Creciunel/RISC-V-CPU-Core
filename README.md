@@ -23,7 +23,7 @@
 
 <h2>Project Setup</h2>
     <p>To explore and contribute to the project, visit the Makerchip sandbox linked below:</p>
-    <a href="https://www.makerchip.com/sandbox/068foh676/0lOhEP#">Makerchip Sandbox</a>
+    <a href="https://www.makerchip.com/sandbox/068foh6oZ/0j2hJy">Makerchip Sandbox</a>
 
 <h2>Contributing</h2>
     <p>Contributions to this project are welcome! Feel free to fork the repository and submit pull requests with your enhancements or bug fixes.</p>
